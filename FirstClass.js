@@ -75,7 +75,10 @@ console.log(typeof num);
 console.log(typeof isvisible);
 
 
-console.log("Happy evening");
+console.log("happy evening");
+
+
+
 
 
 
