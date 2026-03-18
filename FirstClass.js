@@ -73,10 +73,9 @@ console.log(val);
 console.log(typeof namee);
 console.log(typeof num);
 console.log(typeof isvisible);
-console.log(typeof value);
-console.log(typeof val);
 
-console.log("update branch23");
+
+
 
 
 
