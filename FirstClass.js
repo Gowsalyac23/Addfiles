@@ -75,7 +75,8 @@ console.log(typeof num);
 console.log(typeof isvisible);
 
 
-
+console.log("hii");
+console.log("helo");
 
 
 
