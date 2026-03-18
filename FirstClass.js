@@ -76,11 +76,9 @@ console.log(typeof isvisible);
 console.log(typeof value);
 console.log(typeof val);
 
-console.log("hello world");
 
 
-
-
+console.log("welcome");
 
 
 
